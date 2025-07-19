@@ -47,6 +47,9 @@ export const Navbar = () => {
                 {link.title}
               </Link>
             ))}
+            <Link href="/resume.pdf" target="_blank" className="cursor-pointer hover:text-[rgb(112,66,248)] transition" download={true}>
+              Resume
+            </Link>
           </div>
         </div>
 
@@ -88,6 +91,9 @@ export const Navbar = () => {
                 {link.title}
               </Link>
             ))}
+            <Link href="/resume.pdf" target="_blank" className="cursor-pointer hover:text-[rgb(112,66,248)] transition" download={true}>
+              Resume
+            </Link>
           </div>
 
           {/* Social Icons */}
