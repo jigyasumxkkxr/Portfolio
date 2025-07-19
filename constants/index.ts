@@ -16,8 +16,8 @@ export const SKILL_DATA = [
   {
     skill_name: "CSS",
     image: "css.png",
-    width: 80,
-    height: 80,
+    width: 90,
+    height: 90,
   },
   {
     skill_name: "JavaScript",
@@ -52,8 +52,8 @@ export const SKILL_DATA = [
   {
     skill_name: "TypeScript",
     image: "ts.png",
-    width: 80,
-    height: 80,
+    width: 70,
+    height: 70,
   },
   {
     skill_name: "Next.js 14",
@@ -140,8 +140,8 @@ export const BACKEND_SKILL = [
   {
     skill_name: "Prisma",
     image: "prisma.png",
-    width: 70,
-    height: 70,
+    width: 80,
+    height: 80,
   },
   {
     skill_name: "Postman",
@@ -152,8 +152,8 @@ export const BACKEND_SKILL = [
   {
     skill_name: "NeonDB",
     image: "neon.png",
-    width: 80,
-    height: 80,
+    width: 100,
+    height: 100,
   },
 ] as const;
 
@@ -161,8 +161,8 @@ export const FULLSTACK_SKILL = [
   {
     skill_name: "Amazon Web Services",
     image: "aws.png",
-    width: 70,
-    height: 70,
+    width: 80,
+    height: 80,
   },
   {
     skill_name: "Google Cloud Platform",
@@ -185,8 +185,8 @@ export const FULLSTACK_SKILL = [
   {
     skill_name: "Figma",
     image: "figma.png",
-    width: 40,
-    height: 40,
+    width: 35,
+    height: 35,
   },
   {
     skill_name: "NPM",
@@ -219,9 +219,9 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "One Platform - Infinite Opportunities",
+    title: "CareerCatalystX",
     description:
-      'CareerCatalyst is a comprehensive educational technology platform that bridges the gap between educational institutions, students, and industry partners. This innovative solution creates a three-way ecosystem designed to enhance educational outcomes, accelerate career development, and streamline talent acquisition.',
+      'CareerCatalystX is a comprehensive educational technology platform that bridges the gap between educational institutions, students, and industry partners. This innovative solution creates a three-way ecosystem designed to enhance educational outcomes, accelerate career development, and streamline talent acquisition.',
     image: "/projects/project-1.png",
     link: "https://careercatalystx.com/",
   },
@@ -258,7 +258,7 @@ export const FOOTER_DATA = [
       {
         name: "Discord",
         icon: RxDiscordLogo,
-        link: "https://discord.com/jigyasumakkxr",
+        link: "https://discord.com/users/930480837235998811",
       },
     ],
   },
